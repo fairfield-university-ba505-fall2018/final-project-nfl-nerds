@@ -11,6 +11,7 @@
 - Along with this, we were interested in forecasting certain statistics that we found interesting in today's game.
 
 **Research Questions**
+- Is there a specific formula to winning the world series?
 - Over the years, has the game of baseball changed like many analysts have claimed?
 - What can we expect next season in regards to certain statistics?
 
